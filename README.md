@@ -1,7 +1,7 @@
 # Star-Catcher
 A simple object clicking game build with simple html,css and java
 
-
+![Star Catcher Game](img/star%20catcher.png)
 
 
 # Way to use it
